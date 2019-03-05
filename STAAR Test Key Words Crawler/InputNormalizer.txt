@@ -1,0 +1,11 @@
+
+
+class dataWrapper:
+
+    Data = None
+    
+    def __init__(self, sourceArray):
+
+    def cleanData(self, uncleaninput):
+
+    def getDataPoint(self, dataPointIndex):
